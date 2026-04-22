@@ -16,6 +16,17 @@ Machine Learning Researcher at the University of Bergen working across artificia
 :::
 
 :::: {.columns .v-center}
+::: {.column .hero-aside width="38%"}
+::: {.profile-panel}
+![](images/asieh-pic.jpg){.profile-image fig-alt="Portrait of Asieh Abolpour Mofrad"}
+
+**Affiliation**
+
+- Member, [Machine Learning Group](https://www.uib.no/en/rg/ml/130730/machine-learning-group)
+- Department of Informatics, University of Bergen
+:::
+:::
+
 ::: {.column .hero-summary width="62%"}
 My research asks how learning, memory, and adaptive behaviour can be modelled in both natural and artificial systems. I combine formal modelling with applied behavioural data science, moving between graph-based associative memory, reinforcement learning, representation learning, and real-world longitudinal data.
 
@@ -31,17 +42,6 @@ I have developed this agenda through two complementary PhD trajectories in Infor
 [ORCID](https://orcid.org/0000-0002-2148-3756)
 [GitHub](https://github.com/Asieh-A-Mofrad)
 [UiB profile](https://www.uib.no/en/find-employees/asieh.abolpour-mofrad)
-:::
-:::
-
-::: {.column .hero-aside width="38%"}
-::: {.profile-panel}
-![](images/asieh-pic.jpg){.profile-image fig-alt="Portrait of Asieh Abolpour Mofrad"}
-
-**Affiliation**
-
-- Member, [Machine Learning Group](https://www.uib.no/en/rg/ml/130730/machine-learning-group)
-- Department of Informatics, University of Bergen
 :::
 :::
 ::::
