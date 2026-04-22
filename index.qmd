@@ -22,8 +22,8 @@ Machine Learning Researcher at the University of Bergen working across artificia
 
 **Affiliation**
 
-- Member, [Machine Learning Group](https://www.uib.no/en/rg/ml/130730/machine-learning-group)
-- Department of Informatics, University of Bergen
+[Machine Learning Group](https://www.uib.no/en/rg/ml/130730/machine-learning-group)  
+Department of Informatics, University of Bergen
 :::
 :::
 
