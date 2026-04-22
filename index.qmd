@@ -7,14 +7,16 @@ body-classes: landing-page
 ---
 
 ::: {.hero-banner}
-:::: {.columns .v-center}
-::: {.column .hero-summary width="62%"}
+::: {.hero-heading}
 # Asieh Abolpour Mofrad
 
 ::: {.hero-lead}
 Machine Learning Researcher at the University of Bergen working across artificial intelligence, cognitive science, and behavioural data analysis.
 :::
+:::
 
+:::: {.columns .v-center}
+::: {.column .hero-summary width="62%"}
 My research asks how learning, memory, and adaptive behaviour can be modelled in both natural and artificial systems. I combine formal modelling with applied behavioural data science, moving between graph-based associative memory, reinforcement learning, representation learning, and real-world longitudinal data.
 
 I have developed this agenda through two complementary PhD trajectories in Informatics and Behavior Analysis, and I now work on projects spanning retail forecasting, prescription trajectories, digital behaviour, and computational models of cognition.
