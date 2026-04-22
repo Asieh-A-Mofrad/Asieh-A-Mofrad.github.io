@@ -55,7 +55,7 @@ h1, h2, h3, h4, .navbar-title {
 }
 
 .hero-banner .columns {
-  gap: 1.75rem;
+  gap: 2.5rem;
   align-items: flex-start;
 }
 
@@ -67,10 +67,14 @@ h1, h2, h3, h4, .navbar-title {
 
 .hero-summary {
   order: 1;
+  flex: 1 1 0;
+  min-width: 0;
 }
 
 .hero-aside {
   order: 2;
+  flex: 0 0 320px;
+  max-width: 320px;
 }
 
 .profile-panel,
@@ -206,10 +210,13 @@ a {
 
   .hero-summary {
     order: 2;
+    flex: 1 1 auto;
   }
 
   .hero-aside {
     order: 1;
+    flex: 1 1 auto;
+    max-width: none;
     margin-bottom: 0.55rem;
   }
 
