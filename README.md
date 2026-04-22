@@ -38,6 +38,18 @@ This will:
 - copy the updated PDF to `quarto_site/CV.pdf`
 - run `quarto render`
 
+## Quick 3-Command Routine
+
+After you edit the content, the normal update routine is:
+
+```bash
+cd "/Users/asimof2024/Library/CloudStorage/OneDrive-UniversityofBergen/Behavioral Data Science Application/quarto_site"
+./rebuild_site.sh
+git add . && git commit -m "Update website" && git push
+```
+
+If there is nothing new to commit, Git will just tell you and no push is needed.
+
 ## Publish to GitHub Pages
 
 After rebuilding, commit and push the contents of this project. Because `_quarto.yml` outputs the site to `docs/`, GitHub Pages can publish from the `docs` folder on the main branch.
