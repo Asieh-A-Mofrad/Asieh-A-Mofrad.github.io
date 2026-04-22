@@ -1,0 +1,101 @@
+---
+title: "Home"
+page-layout: full
+toc: false
+title-block-style: none
+body-classes: landing-page
+---
+
+::: {.hero-banner}
+:::: {.columns .v-center}
+::: {.column width="62%"}
+# Asieh Abolpour Mofrad
+
+Machine Learning Researcher at the University of Bergen working across artificial intelligence, cognitive science, and behavioural data analysis.
+
+My research asks how learning, memory, and adaptive behaviour can be modelled in both natural and artificial systems. I combine formal modelling with applied behavioural data science, moving between graph-based associative memory, reinforcement learning, representation learning, and real-world longitudinal data.
+
+I have developed this agenda through two complementary PhD trajectories in Informatics and Behavior Analysis, and I now work on projects spanning retail forecasting, prescription trajectories, digital behaviour, and computational models of cognition.
+
+[Research overview](projects.qmd){.btn .btn-primary .me-2}
+[Publications](publications.qmd){.btn .btn-outline-primary .me-2}
+[Teaching & supervision](teaching.qmd){.btn .btn-outline-primary}
+
+::: {.pill-links}
+[Email](mailto:asieh.mofrad@uib.no)
+[Google Scholar](https://scholar.google.co.uk/citations?user=jusB1uwAAAAJ)
+[ORCID](https://orcid.org/0000-0002-2148-3756)
+[GitHub](https://github.com/Asieh-A-Mofrad)
+[UiB profile](https://www.uib.no/en/find-employees/asieh.abolpour-mofrad)
+:::
+:::
+
+::: {.column width="38%"}
+::: {.profile-panel}
+![](images/asieh-pic.jpg){.profile-image fig-alt="Portrait of Asieh Abolpour Mofrad"}
+
+**Affiliation**
+
+- Member, [Machine Learning Group](https://www.uib.no/en/rg/ml/130730/machine-learning-group)
+- Department of Informatics, University of Bergen
+:::
+:::
+::::
+:::
+
+## Research Profile
+
+I develop computational models that connect learning mechanisms, structured representation, and real-world behavioural data. A consistent theme across my work is the search for models that are both powerful and interpretable: models that can capture complex adaptive behaviour while still offering theoretical insight.
+
+Across theory and application, my work moves across three linked levels:
+
+::: {.card-grid}
+::: {.feature-card}
+### Formal models of memory and structure
+
+Graph-based and brain-inspired associative memory models rooted in coding theory, sequence storage, and scalable retrieval.
+:::
+
+::: {.feature-card}
+### Adaptive learning and reinforcement
+
+Projective Simulation, EPS/E-EPS, contrastive reinforcement learning, and computational accounts of generalisation and stimulus equivalence.
+:::
+
+::: {.feature-card}
+### Behavioural data in applied settings
+
+Machine learning for retail, health registries, and digital traces, with emphasis on temporal structure, interpretability, and responsible AI.
+:::
+:::
+
+## Current Focus
+
+::: {.columns}
+::: {.column width="50%"}
+- clique- and tournament-based associative memories for structured representation
+- reinforcement learning, Projective Simulation, and computational models of symbolic behaviour
+- behavioural and context-aware forecasting in the **Retail Fresh** project
+- longitudinal prescription trajectories and Parkinson's disease modelling
+:::
+
+::: {.column width="50%"}
+- digital behaviour, online discourse, and responsible AI
+- interpretable and trustworthy AI systems
+- temporal and graph-based representation learning
+- cross-domain methods connecting theory, experiments, and real-world data
+:::
+:::
+
+## Academic Background
+
+- **PhD in Informatics, University of Bergen**: [*Clique-Based Neural Associative Memories*](https://nva.sikt.no/registration/0198f0f4cb85-7e3bd036-5d34-433f-a86c-7c8fcb52f95b)
+- **PhD in Behavior Analysis, OsloMet**: [*When Behavior Analysis Meets Machine Learning: Formation of Stimulus Equivalence Classes and Adaptive Learning in Artificial Agents*](https://skriftserien.oslomet.no/skriftserien/article/view/723)
+
+## Research Agenda
+
+I am especially interested in building a cohesive programme around three themes: structured and neuro-symbolic intelligent systems, behavioural modelling in real-world contexts, and long-term feedback dynamics in adaptive digital environments. Across these themes, I aim to strengthen interpretability, robustness, and evaluation in behavioural data science and trustworthy AI.
+
+## Collaboration
+
+I welcome collaborations across artificial intelligence, machine learning, behavioural science, cognitive modelling, recommender systems, and longitudinal data analysis. If your work touches learning, memory, structured representation, adaptive systems, or behaviour-rich data, there is a good chance we have something to talk about.

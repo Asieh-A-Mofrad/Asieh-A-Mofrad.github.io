@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Asieh Abolpour Mofrad"
+  search: true
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Research"
+        file: projects.qmd
+      - text: "Publications"
+        file: publications.qmd
+      - text: "Teaching"
+        file: teaching.qmd
+      - text: "Talks & Service"
+        file: talks.qmd
+      - text: "CV"
+        href: CV.pdf
+    right:
+      - icon: envelope
+        href: mailto:asieh.mofrad@uib.no
+        aria-label: "Email"
+      - icon: github
+        href: https://github.com/Asieh-A-Mofrad
+        aria-label: "GitHub"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/asieh-abolpour-mofrad-98ba8174
+        aria-label: "LinkedIn"
+  page-footer:
+    left: "© 2026 Asieh Abolpour Mofrad"
+    right: "[Google Scholar](https://scholar.google.co.uk/citations?user=jusB1uwAAAAJ) | [ORCID](https://orcid.org/0000-0002-2148-3756)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true

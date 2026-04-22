@@ -1,0 +1,179 @@
+:root {
+  --site-ink: #1f2a2a;
+  --site-muted: #5a6767;
+  --site-accent: #0d5c63;
+  --site-accent-soft: #e6f2f1;
+  --site-highlight: #c78b3b;
+  --site-panel: rgba(255, 255, 255, 0.88);
+  --site-border: rgba(13, 92, 99, 0.14);
+  --site-shadow: 0 18px 50px rgba(20, 54, 56, 0.08);
+  --heading-font: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --body-font: "Avenir Next", "Segoe UI", "Helvetica Neue", sans-serif;
+}
+
+body {
+  color: var(--site-ink);
+  background:
+    radial-gradient(circle at top left, rgba(199, 139, 59, 0.11), transparent 28%),
+    linear-gradient(180deg, #f8fbfa 0%, #eef4f2 100%);
+  font-family: var(--body-font);
+}
+
+h1, h2, h3, h4, .navbar-title {
+  font-family: var(--heading-font);
+  letter-spacing: 0.01em;
+}
+
+.navbar {
+  backdrop-filter: blur(10px);
+  background-color: rgba(248, 251, 250, 0.88);
+  border-bottom: 1px solid rgba(13, 92, 99, 0.08);
+}
+
+.navbar-brand,
+.nav-link,
+.menu-text {
+  color: var(--site-ink) !important;
+}
+
+.hero-banner {
+  margin: 0 0 2.5rem 0;
+  padding: 2.5rem;
+  border: 1px solid var(--site-border);
+  border-radius: 28px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(230, 242, 241, 0.9));
+  box-shadow: var(--site-shadow);
+}
+
+.hero-banner h1 {
+  margin-top: 0;
+  font-size: clamp(2.4rem, 4vw, 3.8rem);
+}
+
+.profile-panel,
+.feature-card {
+  padding: 1.25rem 1.35rem;
+  border: 1px solid var(--site-border);
+  border-radius: 22px;
+  background: var(--site-panel);
+  box-shadow: var(--site-shadow);
+}
+
+.profile-panel {
+  text-align: center;
+}
+
+.profile-image {
+  width: min(100%, 300px);
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 24px;
+  margin-bottom: 1rem;
+  box-shadow: 0 14px 36px rgba(16, 45, 47, 0.18);
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.8rem;
+}
+
+.feature-card h3 {
+  margin-top: 0;
+  color: var(--site-accent);
+}
+
+.pill-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin-top: 1rem;
+}
+
+.pill-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin: 0;
+}
+
+.pill-links a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.45rem 0.85rem;
+  border: 1px solid rgba(13, 92, 99, 0.18);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  color: var(--site-accent);
+  text-decoration: none;
+  line-height: 1.2;
+}
+
+.pill-links a:hover {
+  background: rgba(230, 242, 241, 0.95);
+}
+
+.quarto-title-banner {
+  background: transparent;
+}
+
+.quarto-title-block .quarto-title-banner {
+  padding-bottom: 0;
+}
+
+.landing-page #title-block-header.quarto-title-block {
+  display: none;
+}
+
+.main-content {
+  animation: rise-in 0.55s ease-out;
+}
+
+.btn-primary {
+  background-color: var(--site-accent);
+  border-color: var(--site-accent);
+}
+
+.btn-outline-primary {
+  color: var(--site-accent);
+  border-color: var(--site-accent);
+}
+
+.btn-outline-primary:hover,
+.btn-primary:hover {
+  background-color: #08474d;
+  border-color: #08474d;
+}
+
+a {
+  color: var(--site-accent);
+}
+
+.page-footer {
+  border-top: 1px solid rgba(13, 92, 99, 0.08);
+  background: rgba(248, 251, 250, 0.78);
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-banner {
+    padding: 1.4rem;
+    border-radius: 22px;
+  }
+
+  .profile-image {
+    max-width: 240px;
+  }
+}

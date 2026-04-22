@@ -1,0 +1,48 @@
+---
+title: "Talks & Service"
+---
+
+Selected talks, academic service, and research-development activities.
+
+## Selected Talks
+
+### Invited talks
+
+- **2024, University of Bergen**: *Interfacing Psychology and AI: A Journey from Human Learning to Machine Adaptation*  
+  UiB AI #10: Theory, Humans and Natural Sciences
+- **2022, University of Bergen**: *Graph Machine Learning and Its Application to Drug Discovery*  
+  Lifestyle Epidemiology Research Group
+- **2011, Shahid Beheshti University**: *Fountain Codes*
+
+### Conference and workshop presentations
+
+- **2023, Learning on Graphs Conference, Madrid**: *Leveraging Temporal Graph Neural Networks for Drug Repurposing Using Prescription Data in Norway*
+- **2019, IEEE ICDL-EPIROB, Oslo**: *An Adaptive Balanced Difficulty Finder for Task Assignment in Online Learning Environments*
+- **2015, IEEE Canadian Workshop on Information Theory, St. John's**: *Neural Network Associative Memories with Local Coding*
+- **2015, ICT Research School, Bergen**: *Networks of Neural Cliques as Associative Memories*
+- **2015, European School of Information Theory, The Netherlands**: *Networks of Neural Cliques as Associative Memories*
+- **2014, International Iran Conference on Quantum Information**: *Exclusivity Structures from Mixed Graph States*
+- **2013, Selmer Center Seminar, University of Bergen**: *Projective Simulation for Learning-Type Artificial Intelligence Agents*
+
+## Academic Service
+
+- Reviewer for international peer-reviewed journals, including **Journal of Open Source Software**, **Frontiers in Artificial Intelligence**, **Frontiers in Robotics and AI**, and Springer Nature journals
+- Examiner for PhD trial lectures and MSc thesis defenses
+- Committee participation in PhD recruitment and academic assessment
+- Ongoing doctoral and master's supervision across behavioural modelling, machine learning, and health-data applications
+
+## Awards and Distinctions
+
+- **2025**: Gender Equality Research Support Grant supporting recruitment of female MSc research assistants, Department of Informatics, UiB
+- **2023**: Top Viewed Article recognition from Wiley for *Computational models of stimulus equivalence*
+- **2020**: Stanford visiting researcher invitation from Professor Jay McClelland, with related visit funding awarded before pandemic cancellation
+- **2017**: Best Paper Award Finalist, ACM RACS
+
+## Research Development
+
+I am actively involved in proposal writing and research development, including work on:
+
+- **TRI-CLIQUE**, an NFR-oriented proposal on associative memory models
+- **Q-PS-Cog**, an ERC-oriented proposal on quantum-enhanced projective simulation for learning and cognition
+
+These efforts extend my broader aim of connecting theoretical AI, behavioural science, and applied data-driven systems.

@@ -1,0 +1,33 @@
+---
+title: "Publications"
+---
+
+My work spans associative memory, computational models of symbolic behaviour, reinforcement learning, adaptive recommendation, and large-scale health data analysis.
+
+## Selected Journal Articles
+
+### Computational behaviour and adaptive learning
+
+- Tovar, A. E., Torres-Chavez, A., **Abolpour Mofrad, A.**, and Arntzen, E. (2023). [*Computational models of stimulus equivalence: An intersection for the study of symbolic behavior*](https://doi.org/10.1002/jeab.829). **Journal of the Experimental Analysis of Behavior**, 119(2), 407-425.
+- **Abolpour Mofrad, A.**, Yazidi, A., Abolpour Mofrad, S., Hammer, H. L., and Arntzen, E. (2021). [*Enhanced equivalence projective simulation: A framework for modeling formation of stimulus equivalence classes*](https://doi.org/10.1162/neco_a_01346). **Neural Computation**, 33(2), 483-527.
+- **Abolpour Mofrad, A.**, Yazidi, A., Hammer, H. L., and Arntzen, E. (2020). [*Equivalence projective simulation as a framework for modeling formation of stimulus equivalence classes*](https://doi.org/10.1162/neco_a_01274). **Neural Computation**, 32(5), 912-968.
+- Yazidi, A., **Abolpour Mofrad, A.**, Goodwin, M., Hammer, H. L., and Arntzen, E. (2020). [*Balanced difficulty task finder: An adaptive recommendation method for learning tasks based on the concept of state of flow*](https://doi.org/10.1007/s11571-020-09624-3). **Cognitive Neurodynamics**, 14, 675-687.
+
+### Associative memory and structured representation
+
+- **Abolpour Mofrad, A.**, Mofrad, S. A., Yazidi, A., and Parker, M. G. (2021). [*On neural associative memory structures: Storage and retrieval of sequences in a chain of tournaments*](https://doi.org/10.1162/neco_a_01417). **Neural Computation**, 33(9), 2550-2577.
+- **Abolpour Mofrad, A.** and Parker, M. G. (2017). [*Nested-clique network model of neural associative memory*](https://doi.org/10.1162/NECO_a_00964). **Neural Computation**, 29(6), 1681-1695.
+- **Abolpour Mofrad, A.**, Parker, M. G., Ferdosi, Z., and Tadayon, M. H. (2016). [*Clique-based neural associative memories with local coding and precoding*](https://doi.org/10.1162/NECO_a_00856). **Neural Computation**, 28(8), 1553-1573.
+
+### Health and longitudinal behavioural data
+
+- Romanowska, J., Bjornevik, K., Cortese, M., Tuominen, J. A., Solheim, M., **Abolpour Mofrad, A.**, Igland, J., Scherzer, C. R., and Riise, T. (2023). [*Association between use of any of the drugs prescribed in Norway and the subsequent risk of Parkinson disease: A drug-wide association study*](https://doi.org/10.1212/WNL.0000000000207899). **Neurology**, 101(21), e2068-e2077.
+
+## Current Manuscripts and Ongoing Work
+
+- Carrillo, A., **Abolpour Mofrad, A.**, Betancort, M., and Yazidi, A. *Examining reject relations in stimulus equivalence simulations*. Under review.
+- Carrillo, A., **Abolpour Mofrad, A.**, Betancort, M., and Yazidi, A. *A contrastive reinforcement learning model for simulating stimulus equivalence*. Manuscript in preparation.
+- **Abolpour Mofrad, A.** and Mofrad, S. A. *Modular nested clique-tournament memories with permutation schedules*. Manuscript in preparation.
+- **Abolpour Mofrad, A.**, Artemiuk, A., Parviainen, P., and Blaser, N. *Hierarchical forecasting for retail bread demand: Direct, hierarchical, and AutoML time-series approaches*. Manuscript in preparation.
+
+For a fuller publication record, see my [Google Scholar profile](https://scholar.google.co.uk/citations?user=jusB1uwAAAAJ).

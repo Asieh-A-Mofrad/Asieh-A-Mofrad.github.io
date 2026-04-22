@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "My work spans associative memory, computational models of symbolic behaviour, reinforcement learning, adaptive recommendation, and large-scale health data analysis."
+  },
+  {
+    "objectID": "publications.html#selected-journal-articles",
+    "href": "publications.html#selected-journal-articles",
+    "title": "Publications",
+    "section": "Selected Journal Articles",
+    "text": "Selected Journal Articles\n\nComputational behaviour and adaptive learning\n\nTovar, A. E., Torres-Chavez, A., Abolpour Mofrad, A., and Arntzen, E. (2023). Computational models of stimulus equivalence: An intersection for the study of symbolic behavior. Journal of the Experimental Analysis of Behavior, 119(2), 407-425.\nAbolpour Mofrad, A., Yazidi, A., Abolpour Mofrad, S., Hammer, H. L., and Arntzen, E. (2021). Enhanced equivalence projective simulation: A framework for modeling formation of stimulus equivalence classes. Neural Computation, 33(2), 483-527.\nAbolpour Mofrad, A., Yazidi, A., Hammer, H. L., and Arntzen, E. (2020). Equivalence projective simulation as a framework for modeling formation of stimulus equivalence classes. Neural Computation, 32(5), 912-968.\nYazidi, A., Abolpour Mofrad, A., Goodwin, M., Hammer, H. L., and Arntzen, E. (2020). Balanced difficulty task finder: An adaptive recommendation method for learning tasks based on the concept of state of flow. Cognitive Neurodynamics, 14, 675-687.\n\n\n\nAssociative memory and structured representation\n\nAbolpour Mofrad, A., Mofrad, S. A., Yazidi, A., and Parker, M. G. (2021). On neural associative memory structures: Storage and retrieval of sequences in a chain of tournaments. Neural Computation, 33(9), 2550-2577.\nAbolpour Mofrad, A. and Parker, M. G. (2017). Nested-clique network model of neural associative memory. Neural Computation, 29(6), 1681-1695.\nAbolpour Mofrad, A., Parker, M. G., Ferdosi, Z., and Tadayon, M. H. (2016). Clique-based neural associative memories with local coding and precoding. Neural Computation, 28(8), 1553-1573.\n\n\n\nHealth and longitudinal behavioural data\n\nRomanowska, J., Bjornevik, K., Cortese, M., Tuominen, J. A., Solheim, M., Abolpour Mofrad, A., Igland, J., Scherzer, C. R., and Riise, T. (2023). Association between use of any of the drugs prescribed in Norway and the subsequent risk of Parkinson disease: A drug-wide association study. Neurology, 101(21), e2068-e2077."
+  },
+  {
+    "objectID": "publications.html#current-manuscripts-and-ongoing-work",
+    "href": "publications.html#current-manuscripts-and-ongoing-work",
+    "title": "Publications",
+    "section": "Current Manuscripts and Ongoing Work",
+    "text": "Current Manuscripts and Ongoing Work\n\nCarrillo, A., Abolpour Mofrad, A., Betancort, M., and Yazidi, A. Examining reject relations in stimulus equivalence simulations. Under review.\nCarrillo, A., Abolpour Mofrad, A., Betancort, M., and Yazidi, A. A contrastive reinforcement learning model for simulating stimulus equivalence. Manuscript in preparation.\nAbolpour Mofrad, A. and Mofrad, S. A. Modular nested clique-tournament memories with permutation schedules. Manuscript in preparation.\nAbolpour Mofrad, A., Artemiuk, A., Parviainen, P., and Blaser, N. Hierarchical forecasting for retail bread demand: Direct, hierarchical, and AutoML time-series approaches. Manuscript in preparation.\n\nFor a fuller publication record, see my Google Scholar profile."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research",
+    "section": "",
+    "text": "My work combines formal computational modelling with applied behavioural data science. The projects below show how that agenda travels across theory, experimentation, and real-world data."
+  },
+  {
+    "objectID": "projects.html#retail-fresh",
+    "href": "projects.html#retail-fresh",
+    "title": "Research",
+    "section": "Retail Fresh",
+    "text": "Retail Fresh\n\nBehavioural and context-aware modelling in retail systems\nIn the Retail Fresh project, I lead modelling work on retail demand and sales dynamics with the goal of supporting better forecasting and reducing food waste. The research combines machine learning with behavioural regularities in real purchasing environments, where weekly rhythms, holidays, local events, product-level patterns, and environmental factors all shape demand.\nRetail Fresh is an externally funded Research Council of Norway R&D project with Link Retail as the project owner. My work is connected to the Machine Learning Group at UiB and focuses on how forecasting models can support operational decision making in food retail.\nRole: Machine learning researcher and lead modeller\nMethods: Forecasting, hierarchical time-series models, AutoML benchmarking, operational evaluation\nFocus: Applied AI, interpretable forecasting, behavioural regularities in retail data\nCurrent direction: Comparing direct, hierarchical, and automated forecasting approaches for bread demand and related retail categories, with attention to practical deployment and evaluation.\nFunding page\nProject overview in the Machine Learning Group\nLink Retail\nRetail Fresh bread forecasting repository"
+  },
+  {
+    "objectID": "projects.html#associative-memory-models",
+    "href": "projects.html#associative-memory-models",
+    "title": "Research",
+    "section": "Associative Memory Models",
+    "text": "Associative Memory Models\n\nClique- and tournament-based associative memories\nThis line of work grows out of my PhD in Informatics and focuses on clique-based, nested-clique, and tournament-based associative memory architectures. These models are rooted in graph theory and coding theory, and they study how structured information can be stored, organised, and retrieved in scalable systems.\nI am interested in associative memory not only as a neural-inspired mechanism, but as a way of thinking about representation itself: how information becomes structured, how sequences are preserved, and how retrieval can remain interpretable as systems scale.\nRole: Researcher, model developer, proposal writer\nMethods: Graph theory, coding theory, simulation, neural associative memory\nFocus: Structured representation, sequence storage, theoretical AI\nCurrent direction: Extending clique-tournament architectures and developing new proposals around memory structure and scalable recall.\nPhD thesis\nTournament-based sequence storage repository"
+  },
+  {
+    "objectID": "projects.html#computational-behaviour-and-projective-simulation",
+    "href": "projects.html#computational-behaviour-and-projective-simulation",
+    "title": "Research",
+    "section": "Computational Behaviour and Projective Simulation",
+    "text": "Computational Behaviour and Projective Simulation\n\nAdaptive learning, stimulus equivalence, and reinforcement\nThis research strand centres on computational models of adaptive behaviour, especially Projective Simulation, Equivalence Projective Simulation (EPS), and Enhanced-EPS. These models provide a computational lens on learning dynamics, generalisation, and the emergence of stimulus equivalence.\nThe same strand also includes work on contrastive reinforcement learning and on adaptive recommendation through the Balanced Difficulty Task Finder, where behavioural theory, user state, and feedback are used to calibrate challenge and engagement.\nRole: PhD researcher, collaborator, supervisor\nMethods: Reinforcement learning, projective simulation, contrastive learning, behavioural modelling\nFocus: Learning dynamics, symbolic behaviour, adaptive systems\nCurrent direction: New simulation frameworks that combine reinforcement and contrastive objectives, plus ongoing work on reject relations and quantum projective simulation.\nOsloMet PhD thesis\nEPS code repository\nE-EPS code repository\nBalanced Difficulty Task Finder paper"
+  },
+  {
+    "objectID": "projects.html#prescription-history-and-registry-data",
+    "href": "projects.html#prescription-history-and-registry-data",
+    "title": "Research",
+    "section": "Prescription History and Registry Data",
+    "text": "Prescription History and Registry Data\n\nLongitudinal prescription trajectories and Parkinson’s disease\nAs a postdoctoral researcher at UiB, and now through continued supervision and collaboration, I work with Norwegian prescription and patient registry data to study longitudinal trajectories associated with Parkinson’s disease and related outcomes.\nThese data are especially interesting because they are administrative at scale while also reflecting real-world decision processes over time. The modelling challenges include temporal representation, confounding, graph-based drug relationships, and interpretability in settings where domain understanding matters.\nRole: Postdoctoral researcher, supervisor, collaborator\nMethods: Representation learning, temporal modelling, graph-based modelling, longitudinal analysis\nFocus: Health data, prescription trajectories, interpretable modelling\nCurrent direction: Prescription-data pipelines, graph representations of drug histories, and supervised student projects on feature design, balancing strategies, and embedding-based analysis.\nDRONE project page"
+  },
+  {
+    "objectID": "projects.html#digital-behaviour-and-nlp",
+    "href": "projects.html#digital-behaviour-and-nlp",
+    "title": "Research",
+    "section": "Digital Behaviour and NLP",
+    "text": "Digital Behaviour and NLP\n\nOnline discourse, digital traces, and responsible AI\nMy work on digital trace data explores how algorithms and online environments shape behaviour. This includes research on hate speech detection and discourse mapping in Norwegian social media, as well as broader interests in feedback loops, exposure dynamics, and responsible modelling in platform settings.\nThis area connects NLP workflows with behavioural data science and raises important questions about ethics, interpretability, and the long-term effects of adaptive systems.\nRole: Assistant professor and researcher\nMethods: NLP, BERT-based models, text analysis, digital trace analysis\nFocus: Online behaviour, public discourse, responsible AI\nMapping Hateful Utterances project page\nHate speech report"
+  },
+  {
+    "objectID": "projects.html#connecting-themes",
+    "href": "projects.html#connecting-themes",
+    "title": "Research",
+    "section": "Connecting Themes",
+    "text": "Connecting Themes\nAcross these projects, a few ideas recur:\n\nlearning as adaptation under feedback\nrepresentation as a structured and interpretable object\nbehaviour as something that unfolds over time and context\nmachine learning as most useful when paired with theory, evaluation, and domain understanding\n\nThat combination of formal models and applied data work is the thread that ties together my academic profile."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching is grounded in adaptive learning, structured feedback, and transparent reasoning. I aim to help students move from technical execution to independent scientific judgment by making expectations clear, scaffolding difficult tasks, and treating writing and method choice as part of the research process."
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nI design teaching and supervision around a simple principle: students learn deeply when challenge is clear, support is structured, and reasoning is made visible.\nThis perspective is closely connected to my research on adaptive learning. In practice, it means calibrating tasks so they are demanding but still achievable, building confidence without lowering standards. In data-intensive subjects, I emphasise reproducibility, method justification, and the relationship between technical choices and defensible scientific claims."
+  },
+  {
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nUniversity of Bergen\n\nOral examiner, INF368A Reinforcement Learning (MSc), 2024\nTeaching assistant in Information Theory, Graph-Based Coding Theory, Python, Computer Networks, and Programming\n\nOsloMet\n\nTeaching assistant and lecturer in IoT algorithms, networking libraries in Python, and effective C/C++ coding"
+  },
+  {
+    "objectID": "teaching.html#supervision",
+    "href": "teaching.html#supervision",
+    "title": "Teaching",
+    "section": "Supervision",
+    "text": "Supervision\n\nMain supervisor for MSc students working on prescription-data modelling and Parkinson’s disease research\nCo-supervisor for a PhD candidate at Universidad de La Laguna, Spain, on contrastive learning and computational behaviour\nMain supervisor for a PhD candidate at UiB during 2025-2026\nEarlier co-supervision of MSc students at OsloMet and during postdoctoral work, alongside bachelor-level project leadership"
+  },
+  {
+    "objectID": "teaching.html#assessment-and-academic-development",
+    "href": "teaching.html#assessment-and-academic-development",
+    "title": "Teaching",
+    "section": "Assessment and Academic Development",
+    "text": "Assessment and Academic Development\nMy assessment and committee roles include oral examination, PhD trial lecture assessment, MSc thesis defenses, and participation in recruitment processes. These responsibilities have sharpened my interest in aligning learning goals, evaluation, and academic communication.\nI also work actively with AI-aware pedagogy. I encourage students to use new tools responsibly while documenting AI-assisted steps clearly and preserving core academic competencies such as reasoning, writing, explanation, and reproducibility."
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "Teaching Interests",
+    "text": "Teaching Interests\nI am especially motivated by teaching and supervision in:\n\nmachine learning and reinforcement learning\nbehavioural data science\ncomputational modelling of brain and memory\nreproducible analysis workflows\nproject-based student research"
+  },
+  {
+    "objectID": "teaching.html#educational-contribution",
+    "href": "teaching.html#educational-contribution",
+    "title": "Teaching",
+    "section": "Educational Contribution",
+    "text": "Educational Contribution\nI see teaching as a collaborative and evolving academic responsibility. My goal is to contribute to strong learning environments at both BSc and MSc levels, especially where technical methods, behavioural questions, and independent research practice meet."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks & Service",
+    "section": "",
+    "text": "Selected talks, academic service, and research-development activities."
+  },
+  {
+    "objectID": "talks.html#selected-talks",
+    "href": "talks.html#selected-talks",
+    "title": "Talks & Service",
+    "section": "Selected Talks",
+    "text": "Selected Talks\n\nInvited talks\n\n2024, University of Bergen: Interfacing Psychology and AI: A Journey from Human Learning to Machine Adaptation\nUiB AI #10: Theory, Humans and Natural Sciences\n2022, University of Bergen: Graph Machine Learning and Its Application to Drug Discovery\nLifestyle Epidemiology Research Group\n2011, Shahid Beheshti University: Fountain Codes\n\n\n\nConference and workshop presentations\n\n2023, Learning on Graphs Conference, Madrid: Leveraging Temporal Graph Neural Networks for Drug Repurposing Using Prescription Data in Norway\n2019, IEEE ICDL-EPIROB, Oslo: An Adaptive Balanced Difficulty Finder for Task Assignment in Online Learning Environments\n2015, IEEE Canadian Workshop on Information Theory, St. John’s: Neural Network Associative Memories with Local Coding\n2015, ICT Research School, Bergen: Networks of Neural Cliques as Associative Memories\n2015, European School of Information Theory, The Netherlands: Networks of Neural Cliques as Associative Memories\n2014, International Iran Conference on Quantum Information: Exclusivity Structures from Mixed Graph States\n2013, Selmer Center Seminar, University of Bergen: Projective Simulation for Learning-Type Artificial Intelligence Agents"
+  },
+  {
+    "objectID": "talks.html#academic-service",
+    "href": "talks.html#academic-service",
+    "title": "Talks & Service",
+    "section": "Academic Service",
+    "text": "Academic Service\n\nReviewer for international peer-reviewed journals, including Journal of Open Source Software, Frontiers in Artificial Intelligence, Frontiers in Robotics and AI, and Springer Nature journals\nExaminer for PhD trial lectures and MSc thesis defenses\nCommittee participation in PhD recruitment and academic assessment\nOngoing doctoral and master’s supervision across behavioural modelling, machine learning, and health-data applications"
+  },
+  {
+    "objectID": "talks.html#awards-and-distinctions",
+    "href": "talks.html#awards-and-distinctions",
+    "title": "Talks & Service",
+    "section": "Awards and Distinctions",
+    "text": "Awards and Distinctions\n\n2025: Gender Equality Research Support Grant supporting recruitment of female MSc research assistants, Department of Informatics, UiB\n2023: Top Viewed Article recognition from Wiley for Computational models of stimulus equivalence\n2020: Stanford visiting researcher invitation from Professor Jay McClelland, with related visit funding awarded before pandemic cancellation\n2017: Best Paper Award Finalist, ACM RACS"
+  },
+  {
+    "objectID": "talks.html#research-development",
+    "href": "talks.html#research-development",
+    "title": "Talks & Service",
+    "section": "Research Development",
+    "text": "Research Development\nI am actively involved in proposal writing and research development, including work on:\n\nTRI-CLIQUE, an NFR-oriented proposal on associative memory models\nQ-PS-Cog, an ERC-oriented proposal on quantum-enhanced projective simulation for learning and cognition\n\nThese efforts extend my broader aim of connecting theoretical AI, behavioural science, and applied data-driven systems."
+  },
+  {
+    "objectID": "index.html#research-profile",
+    "href": "index.html#research-profile",
+    "title": "Home",
+    "section": "Research Profile",
+    "text": "Research Profile\nI develop computational models that connect learning mechanisms, structured representation, and real-world behavioural data. A consistent theme across my work is the search for models that are both powerful and interpretable: models that can capture complex adaptive behaviour while still offering theoretical insight.\nAcross theory and application, my work moves across three linked levels:\n\n\nFormal models of memory and structure\nGraph-based and brain-inspired associative memory models rooted in coding theory, sequence storage, and scalable retrieval.\n\n\nAdaptive learning and reinforcement\nProjective Simulation, EPS/E-EPS, contrastive reinforcement learning, and computational accounts of generalisation and stimulus equivalence.\n\n\nBehavioural data in applied settings\nMachine learning for retail, health registries, and digital traces, with emphasis on temporal structure, interpretability, and responsible AI."
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Home",
+    "section": "Current Focus",
+    "text": "Current Focus\n\n\n\nclique- and tournament-based associative memories for structured representation\nreinforcement learning, Projective Simulation, and computational models of symbolic behaviour\nbehavioural and context-aware forecasting in the Retail Fresh project\nlongitudinal prescription trajectories and Parkinson’s disease modelling\n\n\n\ndigital behaviour, online discourse, and responsible AI\ninterpretable and trustworthy AI systems\ntemporal and graph-based representation learning\ncross-domain methods connecting theory, experiments, and real-world data"
+  },
+  {
+    "objectID": "index.html#academic-background",
+    "href": "index.html#academic-background",
+    "title": "Home",
+    "section": "Academic Background",
+    "text": "Academic Background\n\nPhD in Informatics, University of Bergen: Clique-Based Neural Associative Memories\nPhD in Behavior Analysis, OsloMet: When Behavior Analysis Meets Machine Learning: Formation of Stimulus Equivalence Classes and Adaptive Learning in Artificial Agents"
+  },
+  {
+    "objectID": "index.html#research-agenda",
+    "href": "index.html#research-agenda",
+    "title": "Home",
+    "section": "Research Agenda",
+    "text": "Research Agenda\nI am especially interested in building a cohesive programme around three themes: structured and neuro-symbolic intelligent systems, behavioural modelling in real-world contexts, and long-term feedback dynamics in adaptive digital environments. Across these themes, I aim to strengthen interpretability, robustness, and evaluation in behavioural data science and trustworthy AI."
+  },
+  {
+    "objectID": "index.html#collaboration",
+    "href": "index.html#collaboration",
+    "title": "Home",
+    "section": "Collaboration",
+    "text": "Collaboration\nI welcome collaborations across artificial intelligence, machine learning, behavioural science, cognitive modelling, recommender systems, and longitudinal data analysis. If your work touches learning, memory, structured representation, adaptive systems, or behaviour-rich data, there is a good chance we have something to talk about."
+  }
+]

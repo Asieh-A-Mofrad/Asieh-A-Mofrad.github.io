@@ -1,0 +1,46 @@
+---
+title: "Teaching"
+---
+
+My teaching is grounded in adaptive learning, structured feedback, and transparent reasoning. I aim to help students move from technical execution to independent scientific judgment by making expectations clear, scaffolding difficult tasks, and treating writing and method choice as part of the research process.
+
+## Teaching Philosophy
+
+I design teaching and supervision around a simple principle: students learn deeply when challenge is clear, support is structured, and reasoning is made visible.
+
+This perspective is closely connected to my research on adaptive learning. In practice, it means calibrating tasks so they are demanding but still achievable, building confidence without lowering standards. In data-intensive subjects, I emphasise reproducibility, method justification, and the relationship between technical choices and defensible scientific claims.
+
+## Teaching Experience
+
+- **University of Bergen**
+  - Oral examiner, INF368A Reinforcement Learning (MSc), 2024
+  - Teaching assistant in Information Theory, Graph-Based Coding Theory, Python, Computer Networks, and Programming
+- **OsloMet**
+  - Teaching assistant and lecturer in IoT algorithms, networking libraries in Python, and effective C/C++ coding
+
+## Supervision
+
+- Main supervisor for MSc students working on prescription-data modelling and Parkinson's disease research
+- Co-supervisor for a PhD candidate at Universidad de La Laguna, Spain, on contrastive learning and computational behaviour
+- Main supervisor for a PhD candidate at UiB during 2025-2026
+- Earlier co-supervision of MSc students at OsloMet and during postdoctoral work, alongside bachelor-level project leadership
+
+## Assessment and Academic Development
+
+My assessment and committee roles include oral examination, PhD trial lecture assessment, MSc thesis defenses, and participation in recruitment processes. These responsibilities have sharpened my interest in aligning learning goals, evaluation, and academic communication.
+
+I also work actively with **AI-aware pedagogy**. I encourage students to use new tools responsibly while documenting AI-assisted steps clearly and preserving core academic competencies such as reasoning, writing, explanation, and reproducibility.
+
+## Teaching Interests
+
+I am especially motivated by teaching and supervision in:
+
+- machine learning and reinforcement learning
+- behavioural data science
+- computational modelling of brain and memory
+- reproducible analysis workflows
+- project-based student research
+
+## Educational Contribution
+
+I see teaching as a collaborative and evolving academic responsibility. My goal is to contribute to strong learning environments at both BSc and MSc levels, especially where technical methods, behavioural questions, and independent research practice meet.

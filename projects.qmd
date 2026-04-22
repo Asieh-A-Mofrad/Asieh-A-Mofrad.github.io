@@ -1,0 +1,112 @@
+---
+title: "Research"
+---
+
+My work combines formal computational modelling with applied behavioural data science. The projects below show how that agenda travels across theory, experimentation, and real-world data.
+
+## Retail Fresh
+
+### Behavioural and context-aware modelling in retail systems
+
+In the **Retail Fresh** project, I lead modelling work on retail demand and sales dynamics with the goal of supporting better forecasting and reducing food waste. The research combines machine learning with behavioural regularities in real purchasing environments, where weekly rhythms, holidays, local events, product-level patterns, and environmental factors all shape demand.
+
+Retail Fresh is an externally funded **Research Council of Norway R&D project** with **Link Retail** as the project owner. My work is connected to the Machine Learning Group at UiB and focuses on how forecasting models can support operational decision making in food retail.
+
+**Role:** Machine learning researcher and lead modeller  
+**Methods:** Forecasting, hierarchical time-series models, AutoML benchmarking, operational evaluation  
+**Focus:** Applied AI, interpretable forecasting, behavioural regularities in retail data
+
+**Current direction:** Comparing direct, hierarchical, and automated forecasting approaches for bread demand and related retail categories, with attention to practical deployment and evaluation.
+
+[Funding page](https://prosjektbanken.forskningsradet.no/project/FORISS/336988)  
+[Project overview in the Machine Learning Group](https://www.uib.no/en/rg/ml/158728/projects#retail-fresh)  
+[Link Retail](https://linkretail.com/)  
+[Retail Fresh bread forecasting repository](https://github.com/Asieh-A-Mofrad/Bread-Forecasting-Retail-Fresh)
+
+---
+
+## Associative Memory Models
+
+### Clique- and tournament-based associative memories
+
+This line of work grows out of my PhD in Informatics and focuses on **clique-based**, **nested-clique**, and **tournament-based** associative memory architectures. These models are rooted in graph theory and coding theory, and they study how structured information can be stored, organised, and retrieved in scalable systems.
+
+I am interested in associative memory not only as a neural-inspired mechanism, but as a way of thinking about representation itself: how information becomes structured, how sequences are preserved, and how retrieval can remain interpretable as systems scale.
+
+**Role:** Researcher, model developer, proposal writer  
+**Methods:** Graph theory, coding theory, simulation, neural associative memory  
+**Focus:** Structured representation, sequence storage, theoretical AI
+
+**Current direction:** Extending clique-tournament architectures and developing new proposals around memory structure and scalable recall.
+
+[PhD thesis](https://nva.sikt.no/registration/0198f0f4cb85-7e3bd036-5d34-433f-a86c-7c8fcb52f95b)  
+[Tournament-based sequence storage repository](https://github.com/Asieh-A-Mofrad/Tournament-Based-Sequence-Storage)
+
+---
+
+## Computational Behaviour and Projective Simulation
+
+### Adaptive learning, stimulus equivalence, and reinforcement
+
+This research strand centres on computational models of adaptive behaviour, especially **Projective Simulation**, **Equivalence Projective Simulation (EPS)**, and **Enhanced-EPS**. These models provide a computational lens on learning dynamics, generalisation, and the emergence of stimulus equivalence.
+
+The same strand also includes work on **contrastive reinforcement learning** and on adaptive recommendation through the **Balanced Difficulty Task Finder**, where behavioural theory, user state, and feedback are used to calibrate challenge and engagement.
+
+**Role:** PhD researcher, collaborator, supervisor  
+**Methods:** Reinforcement learning, projective simulation, contrastive learning, behavioural modelling  
+**Focus:** Learning dynamics, symbolic behaviour, adaptive systems
+
+**Current direction:** New simulation frameworks that combine reinforcement and contrastive objectives, plus ongoing work on reject relations and quantum projective simulation.
+
+[OsloMet PhD thesis](https://skriftserien.oslomet.no/skriftserien/article/view/723)  
+[EPS code repository](https://github.com/Asieh-A-Mofrad/equivalence-projective-simulation)  
+[E-EPS code repository](https://github.com/Asieh-A-Mofrad/Enhanced-Equivalence-Projective-Simulation)  
+[Balanced Difficulty Task Finder paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC7501397/)
+
+---
+
+## Prescription History and Registry Data
+
+### Longitudinal prescription trajectories and Parkinson's disease
+
+As a postdoctoral researcher at UiB, and now through continued supervision and collaboration, I work with **Norwegian prescription and patient registry data** to study longitudinal trajectories associated with Parkinson's disease and related outcomes.
+
+These data are especially interesting because they are administrative at scale while also reflecting real-world decision processes over time. The modelling challenges include temporal representation, confounding, graph-based drug relationships, and interpretability in settings where domain understanding matters.
+
+**Role:** Postdoctoral researcher, supervisor, collaborator  
+**Methods:** Representation learning, temporal modelling, graph-based modelling, longitudinal analysis  
+**Focus:** Health data, prescription trajectories, interpretable modelling
+
+**Current direction:** Prescription-data pipelines, graph representations of drug histories, and supervised student projects on feature design, balancing strategies, and embedding-based analysis.
+
+[DRONE project page](https://www4.uib.no/en/research/research-projects/drone-drug-repurposing-for-neurological-diseases)
+
+---
+
+## Digital Behaviour and NLP
+
+### Online discourse, digital traces, and responsible AI
+
+My work on digital trace data explores how algorithms and online environments shape behaviour. This includes research on **hate speech detection and discourse mapping in Norwegian social media**, as well as broader interests in feedback loops, exposure dynamics, and responsible modelling in platform settings.
+
+This area connects NLP workflows with behavioural data science and raises important questions about ethics, interpretability, and the long-term effects of adaptive systems.
+
+**Role:** Assistant professor and researcher  
+**Methods:** NLP, BERT-based models, text analysis, digital trace analysis  
+**Focus:** Online behaviour, public discourse, responsible AI
+
+[Mapping Hateful Utterances project page](https://www.oslomet.no/en/research/research-projects/mapping-hateful-utterances-muslims-norwegian-social-media)  
+[Hate speech report](https://oda.oslomet.no/oda-xmlui/handle/11250/2992278)
+
+---
+
+## Connecting Themes
+
+Across these projects, a few ideas recur:
+
+- learning as adaptation under feedback
+- representation as a structured and interpretable object
+- behaviour as something that unfolds over time and context
+- machine learning as most useful when paired with theory, evaluation, and domain understanding
+
+That combination of formal models and applied data work is the thread that ties together my academic profile.
